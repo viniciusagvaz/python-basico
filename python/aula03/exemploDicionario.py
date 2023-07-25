@@ -1,8 +1,8 @@
-pessoas = {   
-   1111:['Alberto'],
-   2222:['Bruna'],  
-   3333:['Cecília'],
-   4444:['Daniel']
+pessoas = {
+    1111: ['Alberto'],
+    2222: ['Bruna'],
+    3333: ['Cecília'],
+    4444: ['Daniel']
 }
 
 print(f"primeira pessoa = {pessoas[1111]}")
